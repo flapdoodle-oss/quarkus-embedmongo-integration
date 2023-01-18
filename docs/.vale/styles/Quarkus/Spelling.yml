@@ -42,10 +42,12 @@ filters:
   - "[Ff]actory"
   - "[fF]ailback"
   - "[fF]ailover"
+  - "[fF]lyway"
   - "[fF]indability"
   - "[gG]bps"
   - "[gG]etter"
   - "[gG]it"
+  - "[gG]radle"
   - "[gG]rafana"
   - "[hH]ardcoding"
   - "[hH]eatmap"
@@ -62,6 +64,7 @@ filters:
   - "[kK]eyrings"
   - "[lL]ibvirt"
   - "[lL]icensor"
+  - "[lL]iquibase"
   - "[lL]iveness"
   - "[lL]oopback"
   - "[mM]atrixes"
@@ -69,6 +72,7 @@ filters:
   - "[mM]etamodel"
   - "[mM]iddleware"
   - "[mM]illicores"
+  - "[mM]ongo[dD]b"
   - "[mM]ixin"
   - "[mM]ixins"
   - "[mM]odularization"
@@ -159,6 +163,7 @@ filters:
   - "[uU]psell"
   - "[uU]pselling"
   - "[vV]alidator"
+  - "[yY]aml"
   - "Let\'s Encrypt"
   - adoc
   - Agroal
@@ -222,6 +227,7 @@ filters:
   - Fabrice
   - Failsafe
   - Fernflower
+  - Flyway
   - Fortran
   - Funqy
   - GCC
@@ -267,9 +273,11 @@ filters:
   - Kogito
   - Kompose
   - Kubespray
+  - Kubernetes
   - Kylin
   - Laravel
   - Lombok
+  - Liquibase
   - Makefile
   - Mattermost
   - Maven
@@ -279,7 +287,6 @@ filters:
   - Minishift
   - Mirantis
   - Mockito
-  - MongoDB
   - MySQL
   - Nagios
   - Narayana
